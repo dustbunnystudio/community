@@ -2,6 +2,8 @@
 
 # Google Cloud Platform Community [![Slack][slack_badge]][slack_link] [![Build][build_badge]][build_link]
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3e8ea48086bf4e3a8fab80cdb734f578)](https://app.codacy.com/manual/rob_26/community?utm_source=github.com&utm_medium=referral&utm_content=dustbunnystudio/community&utm_campaign=Badge_Grade_Settings)
+
 This repository holds the content submitted to
 [cloud.google.com/community][community].
 
